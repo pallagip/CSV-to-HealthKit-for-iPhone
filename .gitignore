@@ -1,0 +1,21 @@
+# Xcode
+#
+# gitignore contributors: search for "Xcode" in https://github.com/github/gitignore
+
+## Build generated
+build/
+DerivedData/
+*.moved-aside
+
+## Various cache & temp files
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## User settings
+xcuserdata/
+*.xcuserstate
+
+## macOS
+.DS_Store
